@@ -1,4 +1,5 @@
 Data Visualization Chatbot with Insights Generation
+
 This project is a Gradio-based chatbot application that integrates with the Ollama LLM (Llama2) to assist users in uploading datasets, generating visualizations, and obtaining insights. The tool also allows users to combine multiple visualizations and insights into actionable business recommendations.
 
 Technical Problem to Solve
